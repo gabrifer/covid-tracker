@@ -1,0 +1,21 @@
+.filter-wrapper {
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.date-picker {
+    margin: 15px 0;
+    width: 100%;
+}
+
+.chart-picker {
+    margin: 15px 0;
+    width: 100%;
+}
+
+.submit-button {
+    width: 100%;
+}
+
